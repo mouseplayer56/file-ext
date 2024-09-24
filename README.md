@@ -1,5 +1,5 @@
-# mass-file-extension-modifier
-## Input the directory of a file, the extensions you want to replace, and the extensions to replace them with.
+# file-ext
+## Input the directory of a folder (with the files you want to modify), the extensions you want to replace, and the extensions to replace them with.
 Intended for large-scale re-mapping of extensions. Also contains the ability to re-map certain extensions to specific ones, explained further below.
 
 ![git_cap](https://github.com/user-attachments/assets/d0866261-bbda-43eb-8c64-7dc7bfbe9742)
