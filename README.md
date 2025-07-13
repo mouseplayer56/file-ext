@@ -6,7 +6,7 @@ Intended for large-scale re-mapping of extensions. Also contains the ability to 
 
 Comes with test folder & 3 files in .txt, that you can convert to .bmp to see the image.
 
-**BEGINNER'S NOTE:** If you don't know Python and want to use this, simple open the file-sorter.py file in notepad, and remove both of the "#" symbol and space from the line beginning "ceid_ask(".
+**BEGINNER'S NOTE:** If you don't know Python and want to use this, simply open the file-sorter.py file in notepad, and remove both of the "#" symbol and space from the line beginning "ceid_ask(".
 
 ![image](https://github.com/user-attachments/assets/14ea9c16-14bb-4436-bb31-9f5403bb1946)
 
